@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.web", "BlazorApp.web\BlazorApp.web\BlazorApp.web.csproj", "{8A07235B-157C-40FC-A7D8-1F61B1076B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp.web.Client", "BlazorApp.web\BlazorApp.web.Client\BlazorApp.web.Client.csproj", "{AB80C7CA-31D1-412B-9729-FDDF8F4C5F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A07235B-157C-40FC-A7D8-1F61B1076B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A07235B-157C-40FC-A7D8-1F61B1076B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A07235B-157C-40FC-A7D8-1F61B1076B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A07235B-157C-40FC-A7D8-1F61B1076B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB80C7CA-31D1-412B-9729-FDDF8F4C5F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB80C7CA-31D1-412B-9729-FDDF8F4C5F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB80C7CA-31D1-412B-9729-FDDF8F4C5F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB80C7CA-31D1-412B-9729-FDDF8F4C5F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
